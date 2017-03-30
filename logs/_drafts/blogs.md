@@ -1,0 +1,5 @@
+* [Deepmind](https://www.nervanasys.com/blog/)
+* [Nervana](https://deepmind.com/blog/)
+* [Google](https://research.googleblog.com/)
+* [OpenAI](https://blog.openai.com/)
+* [Facebook](https://research.fb.com/blog/)
