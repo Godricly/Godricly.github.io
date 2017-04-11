@@ -1,6 +1,6 @@
 # GAN paper list
 
-
+## Theory
 * Generative Adversarial Networks (**GAN**) [[arXiv]](https://arxiv.org/abs/1406.2661) [[GitHub]](https://github.com/goodfeli/adversarial)
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (**DCGAN**) [[arXiv]](https://arxiv.org/abs/1511.06434) [[GitHub]](https://github.com/soumith/dcgan.torch)
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (**InfoGAN**)
@@ -13,6 +13,8 @@
 [[GitHub]](https://github.com/martinarjovsky/WassersteinGAN)
 * Energy-based Generative Adversarial Network (**EBGAN**)
 [[arXiv]](https://arxiv.org/abs/1609.03126)
+
+## Applications
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (**SRGAN**)
 [[arXiv]](https://arxiv.org/abs/1609.04802)
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (**CycleGAN**)
