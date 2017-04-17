@@ -11,8 +11,12 @@
 * Wasserstein GAN (**WGAN**)
 [[arXiv]](https://arxiv.org/abs/1701.07875)
 [[GitHub]](https://github.com/martinarjovsky/WassersteinGAN)
+* Improved Training of Wasserstein GANs (**improved WGAN**)
+[[arXiv]](https://arxiv.org/abs/1704.00028)
+[[GitHub]](https://github.com/igul222/improved_wgan_training) 
 * Energy-based Generative Adversarial Network (**EBGAN**)
 [[arXiv]](https://arxiv.org/abs/1609.03126)
+
 
 ## Applications
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (**SRGAN**)
