@@ -24,3 +24,5 @@
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (**CycleGAN**)
 [[arXiv]](https://arxiv.org/abs/1703.10593)
 [[GitHub]](https://github.com/junyanz/CycleGAN)
+* Multi-Content GAN for Few-Shot Font Style Transfer
+[[arXiv]]( https://arxiv.org/abs/1712.00516)
